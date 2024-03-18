@@ -1,5 +1,7 @@
 # NodeJS Service Template
 
+![](https://repository-images.githubusercontent.com/773457571/48c69759-029a-4cfe-afb2-fd3680a16b26)
+
 Minimal NodeJS service template. Just clone and code 😉
 
 Tech Stack
